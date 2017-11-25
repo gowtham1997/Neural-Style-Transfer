@@ -8,6 +8,12 @@ to content of another image using Convolutional neural networks.
   <img src="/image1.jpg" width="380" height="280" hspace="50"/>
   <img src="/image2.jpg" width="380" height="280"/> 
 </p>
+<p align="center">
+  <img src="/Result.gif" width="380" height="280"/>
+</p>
+
+
+
 
 
 
